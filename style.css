@@ -1,0 +1,10 @@
+.da{
+    text-align: center;
+    color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+.liat{
+    color:black;
+    table-layout: fixed;
+}
